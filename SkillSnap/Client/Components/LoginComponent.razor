@@ -1,0 +1,22 @@
+﻿@using Microsoft.AspNetCore.Components.Authorization
+@inject CustomAuthStateProvider auth
+
+<AuthorizeView>
+    <Authorized>
+        <button class="btn-outline-light" @onclick="Logout">Logout</button>
+    </Authorized>
+
+    <NotAuthorized>
+        
+        <a href="/login">Log In</a>
+        
+    </NotAuthorized>
+</AuthorizeView>
+
+@code
+{
+    private async Task Logout()
+    {
+        await auth.NotifyUserLogout();
+    }
+}

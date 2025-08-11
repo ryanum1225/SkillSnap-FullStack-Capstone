@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\client\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|solutionrelative:client\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\client\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|solutionrelative:client\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\client\\handler\\authheaderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|solutionrelative:client\\handler\\authheaderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\client\\components\\projectlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|solutionrelative:client\\components\\projectlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|solutionrelative:api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\client\\components\\logincomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|solutionrelative:client\\components\\logincomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\api\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|solutionrelative:api\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|solutionrelative:client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\client\\pages\\allprojects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|solutionrelative:client\\pages\\allprojects.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\client\\services\\customauthstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9CE026-4657-46F7-A663-8959AD83E754}|Client\\Client.csproj|solutionrelative:client\\services\\customauthstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\full stack\\microsoft\\skillsnapredux\\skillsnap\\api\\data\\skillsnapcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A1F7D6-615A-400F-9081-5B2D4CCBC959}|Api\\Api.csproj|solutionrelative:api\\data\\skillsnapcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectList.razor",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Components\\ProjectList.razor",
+              "RelativeDocumentMoniker": "Client\\Components\\ProjectList.razor",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Components\\ProjectList.razor",
+              "RelativeToolTip": "Client\\Components\\ProjectList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T19:00:59.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Client\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Services\\ProjectService.cs",
+              "RelativeToolTip": "Client\\Services\\ProjectService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:45:16.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Components\\LoginComponent.razor",
+              "RelativeDocumentMoniker": "Client\\Components\\LoginComponent.razor",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Components\\LoginComponent.razor",
+              "RelativeToolTip": "Client\\Components\\LoginComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T18:34:56.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:55:47.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:08:25.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:21:32.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Pages\\Login.razor",
+              "RelativeToolTip": "Client\\Pages\\Login.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T16:56:32.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthHeaderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Handler\\AuthHeaderHandler.cs",
+              "RelativeDocumentMoniker": "Client\\Handler\\AuthHeaderHandler.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Handler\\AuthHeaderHandler.cs",
+              "RelativeToolTip": "Client\\Handler\\AuthHeaderHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:22:48.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeedController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\Controllers\\SeedController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\SeedController.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\Controllers\\SeedController.cs",
+              "RelativeToolTip": "Api\\Controllers\\SeedController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:15:28.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T19:14:03.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA3wC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:32:22.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AllProjects.razor",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Pages\\AllProjects.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\AllProjects.razor",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Pages\\AllProjects.razor",
+              "RelativeToolTip": "Client\\Pages\\AllProjects.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T19:01:29.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Client\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Client\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T19:03:32.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomAuthStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Services\\CustomAuthStateProvider.cs",
+              "RelativeDocumentMoniker": "Client\\Services\\CustomAuthStateProvider.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Client\\Services\\CustomAuthStateProvider.cs",
+              "RelativeToolTip": "Client\\Services\\CustomAuthStateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:55:22.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SkillSnapContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\Data\\SkillSnapContext.cs",
+              "RelativeDocumentMoniker": "Api\\Data\\SkillSnapContext.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\Full Stack\\Microsoft\\SkillSnapRedux\\SkillSnap\\Api\\Data\\SkillSnapContext.cs",
+              "RelativeToolTip": "Api\\Data\\SkillSnapContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:20:27.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

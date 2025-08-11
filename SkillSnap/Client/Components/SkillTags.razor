@@ -1,0 +1,33 @@
+﻿@using Client.Services
+@using SkillSnap.Shared.Models
+@inject SkillService SkillService
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+
+
+@if (skills != null)
+{
+    <div class="d-flex flex-row align-items-start flex-wrap" style="gap: 10px 30px;">
+        @foreach (var sk in skills)
+        {
+            <div>
+                <p><span class="w3-tag w3-blue">@sk.Name</span></p>
+            </div>
+        }
+    </div>
+}
+
+else
+{
+    <p>Loading...</p>
+}
+
+@code
+{
+    private List<Skill> skills;
+
+    protected override async Task OnInitializedAsync()
+    {
+        skills = await SkillService.GetSkillsAsync();
+    }
+}

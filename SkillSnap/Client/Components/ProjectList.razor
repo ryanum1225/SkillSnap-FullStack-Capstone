@@ -1,0 +1,53 @@
+﻿@using Client.Services;
+@using SkillSnap.Shared.Models;
+@inject ProjectService ProjectService;
+
+
+@if (errorMessage != null)
+{
+    <p>@errorMessage</p>
+}
+
+
+        @if (projects != null)
+        {
+            <div class="d-flex flex-row flex-wrap" style="gap:20px; padding:5px;">
+                @foreach (var proj in projects)
+                {
+                    <div class="card" style="width: 18rem;">
+                        <img src="@proj.ImageUrl" />
+                        <div class="card-body">
+                            <h4>@proj.Title</h4>
+
+                            <p>@proj.Description</p>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <p>Loading...</p>
+        }
+
+
+
+@code
+{
+    private List<Project> projects;
+    private string? errorMessage;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            projects = await ProjectService.GetProjectsAsync();
+        }
+        catch (Exception ex)
+        {
+            errorMessage = $"Error: {ex}";
+        }
+    }
+
+
+}

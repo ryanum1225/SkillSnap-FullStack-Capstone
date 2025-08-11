@@ -1,0 +1,41 @@
+﻿@page "/login"
+
+@inject IHttpClientFactory ClientFactory
+@inject Blazored.LocalStorage.ILocalStorageService LocalStorage
+@inject CustomAuthStateProvider AuthProvider
+@inject NavigationManager NavMan
+
+<h3>Login</h3>
+<div>
+    <div class="form-control">
+        <label>Username</label>
+        <input @bind="username" placeholder="Username" />
+    </div>
+
+    <div class="form-control">
+        <label>Password</label>
+        <input @bind="password" placeholder="Password" type="password" />
+    </div>
+
+    <div class="form-control">
+        <button class="btn btn-primary" @onclick="LoginUser">Login</button>
+    </div>
+</div>
+
+
+
+@code {
+    private string username;
+    private string password;
+
+    private async Task LoginUser()
+    {
+        var Http = ClientFactory.CreateClient("MyApi");
+
+        var response = await Http.PostAsJsonAsync("api/auth/login", new LoginDTO { UserName = username, Password = password });
+        var result = await response.Content.ReadFromJsonAsync<LoginResponse>();
+        await LocalStorage.SetItemAsync("authToken", result.Token);
+        AuthProvider.NotifyUserAuthentication(result.Token);
+        NavMan.NavigateTo("/");
+    }
+}
